@@ -10,3 +10,5 @@ Local efficiency : 0.425
 Variance : 0.114
 Local efficiency : 0.537
 Variance : 0.017
+Local efficiency : 0.530
+Variance : 0.184

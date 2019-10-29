@@ -17,7 +17,7 @@ Libraries
 * graph-tool : https://graph-tool.skewed.de/
 * networkx : https://networkx.github.io/
 
-## Datas
+## Data
 * CA-GrQc.txt
   - 일반상대성이론 분야 논문 공저 네트워크
 * facebook_combined.txt

@@ -3,7 +3,7 @@ SNU 2019 Freshman Seminar <기하와 위상: 데이터가 사는 세계>(Prof. �
 
 Overleaf Link (beamer&essay) : https://www.overleaf.com/read/ttdbrjmfzxmz
 
-## Contributers
+## Contributors
 * 윤창기(자연과학대학 화학부 19학번) tamref.yun@snu.ac.kr
 * 조영훈(자연과학대학 수리과학부 19학번) starrysky422@snu.ac.kr
 

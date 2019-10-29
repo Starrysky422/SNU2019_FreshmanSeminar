@@ -16,3 +16,9 @@ Libraries
 * numpy, matplotlib, ...
 * graph-tool : https://graph-tool.skewed.de/
 * networkx : https://networkx.github.io/
+
+## Datas
+* CA-GrQc.txt
+  - 일반상대성이론 분야 논문 공저 네트워크
+* facebook_combined.txt
+  - 페이스북 친구관계 네트워크

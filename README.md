@@ -35,3 +35,10 @@ Libraries
 * Function local_efficiencies -> local_efficiency
 * print('I'm a nerd!!!')
 * calculate rndgphs_erdos_2 local efficiency (~0.0052, variance 1.972e-5)
+* modify Function getdeg -> get_degree_spectra
+
+## TODOs (for essay)
+
+* ESpS discussion
+* Further topic 제시하기
+* Artificial network parameter tuning, efficiency 값, discussion (왜 안되는가?) 짤막하게 쓰기

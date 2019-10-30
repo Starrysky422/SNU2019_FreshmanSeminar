@@ -29,8 +29,9 @@ Libraries
 * facebook_combined.txt
     * 페이스북 친구관계 네트워크
 
-## TODOs
+## Short-Term TODOs
 
 * Function calc_efficiencies -> global_efficiency
 * Function local_efficiencies -> local_efficiency
 * print('I'm a nerd!!!')
+* calculate rndgphs_erdos_2 local efficiency (~0.0052, variance 1.972e-5)

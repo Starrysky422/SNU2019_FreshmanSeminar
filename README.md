@@ -48,4 +48,4 @@ Libraries
 
 ### Long Term
 
-* Calculate Fractal Dimension of ESpT & ESpS
+* Calculate Fractal Dimension of ESpT & ESpS https://en.wikipedia.org/wiki/Fractal_dimension_on_networks

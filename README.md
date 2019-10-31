@@ -36,6 +36,7 @@ Libraries
 * print('I'm a nerd!!!')
 * calculate rndgphs_erdos_2 local efficiency (~0.0052, variance 1.972e-5)
 * modify Function getdeg -> get_degree_spectra
+* V(FB) = 4038 -> 4039 (0-based)
 
 ## TODOs (for essay)
 

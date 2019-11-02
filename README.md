@@ -41,12 +41,6 @@ Libraries
 * V(FB) = 4038 -> 4039 (0-based)
 * E(GR) = 28980 -> 14484? (directed data)
 
-### For Essay
-
-* ESpS discussion
-* Further topic 제시하기
-* Artificial network parameter tuning, efficiency 값, discussion (왜 안되는가?) 짤막하게 쓰기
-
 ### Long Term
 
 * Calculate Fractal Dimension of ESpT & ESpS https://en.wikipedia.org/wiki/Fractal_dimension_on_networks

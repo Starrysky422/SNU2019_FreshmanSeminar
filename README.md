@@ -33,15 +33,26 @@ Libraries
 
 ### Short Term
 
+<<<<<<< HEAD
 * Function calc_efficiencies -> global_efficiency : Changed on Test2
 * Function local_efficiencies -> local_efficiency : Changed on Test2
 * print('I'm a nerd!!!') : Changed on Test2
 * calculate rndgphs_erdos_2 local efficiency (~0.0052, variance 1.972e-5)
 * modify Function getdeg -> get_degree_spectra : Changed on Test2
+=======
+* Function calc_efficiencies -> global_efficiency
+* Function local_efficiencies -> local_efficiency
+* print('I'm a nerd!!!')
+* calculate rndgphs_erdos_2 local efficiency (~0.0052, variance 1.972e-5)
+* modify Function getdeg -> get_degree_spectra
+>>>>>>> a99be597d62a22027fcbcdc546bdd01ed04ac5bf
 * V(FB) = 4038 -> 4039 (0-based)
 * E(GR) = 28980 -> 14484? (directed data)
 
 ### Long Term
 
 * Calculate Fractal Dimension of ESpT & ESpS https://en.wikipedia.org/wiki/Fractal_dimension_on_networks
+<<<<<<< HEAD
 
+=======
+>>>>>>> a99be597d62a22027fcbcdc546bdd01ed04ac5bf

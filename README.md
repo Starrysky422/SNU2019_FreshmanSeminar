@@ -28,3 +28,20 @@ Libraries
     * 일반상대성이론 분야 논문 공저 네트워크
 * facebook_combined.txt
     * 페이스북 친구관계 네트워크
+
+## TODOs
+
+### Short Term
+
+* Function calc_efficiencies -> global_efficiency : Changed on Test2
+* Function local_efficiencies -> local_efficiency : Changed on Test2
+* print('I'm a nerd!!!') : Changed on Test2
+* calculate rndgphs_erdos_2 local efficiency (~0.0052, variance 1.972e-5)
+* modify Function getdeg -> get_degree_spectra : Changed on Test2
+* V(FB) = 4038 -> 4039 (0-based)
+* E(GR) = 28980 -> 14484? (directed data)
+
+### Long Term
+
+* Calculate Fractal Dimension of ESpT & ESpS https://en.wikipedia.org/wiki/Fractal_dimension_on_networks
+

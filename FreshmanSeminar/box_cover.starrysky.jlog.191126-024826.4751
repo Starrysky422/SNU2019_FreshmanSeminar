@@ -1,0 +1,88 @@
+{
+  "run": {
+    "program": "box_cover",
+    "args": [
+      "../graph-sketch-fractality-master/bin/box_cover",
+      "-type=auto",
+      "-graph=./AdjList/Trim/FB_Trim_cut_20.txt",
+      "-method=sketch",
+      "-random_seed=1124747"
+    ],
+    "machine": "starrysky",
+    "date": "2019/11/26",
+    "user": "starrysky",
+    "pid": 4751,
+    "time": 3.45961,
+    "memory": 6258688
+  },
+  "graph_info": [
+    {
+      "vertices": 4039,
+      "edges": 176468,
+      "graph": "./AdjList/Trim/FB_Trim_cut_20.txt"
+    }
+  ],
+  "name": "sketch-k.128",
+  "k": "128",
+  "pass": "1000000000",
+  "alpha": "1.000000",
+  "time": [
+    0.0453758,
+    0.552376,
+    1.01172,
+    1.25123
+  ],
+  "size": [
+    10,
+    4,
+    2,
+    1
+  ],
+  "radius": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "coverage": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "centers": [
+    {
+      "1": [
+        107,
+        1684,
+        1912,
+        3437,
+        0,
+        348,
+        686,
+        414,
+        3980,
+        698
+      ]
+    },
+    {
+      "2": [
+        58,
+        567,
+        686,
+        3999
+      ]
+    },
+    {
+      "3": [
+        414,
+        686
+      ]
+    },
+    {
+      "4": [
+        567
+      ]
+    }
+  ]
+}

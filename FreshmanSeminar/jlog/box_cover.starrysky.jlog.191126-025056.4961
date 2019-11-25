@@ -1,0 +1,93 @@
+{
+  "run": {
+    "program": "box_cover",
+    "args": [
+      "../graph-sketch-fractality-master/bin/box_cover",
+      "-type=auto",
+      "-graph=./AdjList/etc/lingraph_10.txt",
+      "-method=sketch",
+      "-random_seed=1124747"
+    ],
+    "machine": "starrysky",
+    "date": "2019/11/26",
+    "user": "starrysky",
+    "pid": 4961,
+    "time": 0.492018,
+    "memory": 3899392
+  },
+  "graph_info": [
+    {
+      "vertices": 11,
+      "edges": 20,
+      "graph": "./AdjList/etc/lingraph_10.txt"
+    }
+  ],
+  "name": "sketch-k.128",
+  "k": "128",
+  "pass": "1000000000",
+  "alpha": "1.000000",
+  "time": [
+    1.40667e-05,
+    1.28746e-05,
+    1.78814e-05,
+    2.21729e-05,
+    2.21729e-05
+  ],
+  "size": [
+    5,
+    3,
+    3,
+    2,
+    1
+  ],
+  "radius": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "coverage": [
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "centers": [
+    {
+      "1": [
+        8,
+        5,
+        1,
+        2,
+        9
+      ]
+    },
+    {
+      "2": [
+        5,
+        0,
+        10
+      ]
+    },
+    {
+      "3": [
+        6,
+        0,
+        7
+      ]
+    },
+    {
+      "4": [
+        4,
+        10
+      ]
+    },
+    {
+      "5": [
+        5
+      ]
+    }
+  ]
+}
